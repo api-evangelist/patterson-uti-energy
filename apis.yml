@@ -1,7 +1,12 @@
 aid: patterson-uti-energy
-url: https://raw.githubusercontent.com/api-evangelist/patterson-uti-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/patterson-uti-energy/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.patterson-uti-energy.com
+description: >-
+  Patterson-UTI Energy is one of the leading providers of onshore contract drilling
+  services to exploration and production companies in North America, with land-based
+  drilling rigs and pressure pumping services.
