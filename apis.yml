@@ -16,6 +16,8 @@ tags:
   - Drilling
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/patterson-uti
   - type: Website
     url: https://www.patterson-uti.com
 maintainers:
