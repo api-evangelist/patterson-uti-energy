@@ -21,7 +21,7 @@ common:
     url: https://www.linkedin.com/company/patterson-uti
   - type: Website
     url: https://www.patterson-uti.com
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://patterson-uti.com/llms.txt
 maintainers:
   - FN: Kin Lane
