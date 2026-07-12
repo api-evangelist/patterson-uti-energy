@@ -17,6 +17,8 @@ tags:
   - Fortune 1000
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/patterson-uti-energy-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/patterson-uti
   - type: Website
