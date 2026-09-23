@@ -1,7 +1,9 @@
 ---
 title: At Patterson-UTI, we use AI, data science, and smart tech ...
 url: https://www.instagram.com/p/DJubX_9z6pF/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Patterson-UTI Energy" press release artificial intelligence'
 position: 5
 source: serpapi-google

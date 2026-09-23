@@ -1,7 +1,9 @@
 ---
 title: Patterson-UTI Energy, Inc. News and Press Releases
 url: https://www.prnewswire.com/news/patterson__uti-energy%2C-inc./?page=14
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Patterson-UTI Energy" press release artificial intelligence'
 position: 4
 source: serpapi-google
